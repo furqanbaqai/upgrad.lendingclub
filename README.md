@@ -64,6 +64,7 @@ This case-study is an academic analysis of a fictious Finance house / Lending Ho
 ## Directory Structure
 ```
 .
+├── Lending Club Case Study Presentation.pdf
 ├── LICENSE
 ├── loan.csv
 ├── Muhammad_Furqan.ipynb
